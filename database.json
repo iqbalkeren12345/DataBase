@@ -1,4 +1,15 @@
-DATA SCRIPT 
-NOMOR:
-NAMA:
-PASWORD: 
+[  
+     {
+      "OWNER": "Ball_Store",
+      "ACCESS": true,
+      "USERNAME": "ad",
+      "PASSWORD": "admin123",
+      "BANNED": false,
+      "BAN REASON": null,
+      "MAINTENANCE": false 
+    
+     }
+]
+  
+
+  
